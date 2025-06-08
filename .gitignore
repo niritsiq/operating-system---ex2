@@ -1,0 +1,22 @@
+# Build artifacts
+*.o
+*.out
+*.a
+*.so
+*.exe
+
+# OS and editor files
+.DS_Store
+*~
+*.swp
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+
+# VSCode settings
+.vscode/
+
+# Core dumps
+core
